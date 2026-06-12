@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 About Me<br><br>🎓 B.Tech Computer Science student<br><br>🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning<br><br>🎮 Building games with Godot and GDScript<br><br>📚 Currently learning Data Science, AI/ML, and Game Development<br><br>🚀 Working on personal projects to strengthen my development skills<br><br>🌱 Exploring research opportunities in Computer Science<br><br>💬 Ask me about Python, Godot, Git, GitHub, and beginner AI/ML<br><br>⚡ Fun fact: I enjoy turning ideas into projects.
+## <br><br>🎓 B.Tech Computer Science student<br><br>🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning<br><br>🎮 Building games with Godot and GDScript<br><br>📚 Currently learning Data Science, AI/ML, and Game Development<br><br>🚀 Working on personal projects to strengthen my development skills<br><br>🌱 Exploring research opportunities in Computer Science<br><br>💬 Ask me about Python, Godot, Git, GitHub, and beginner AI/ML<br><br>⚡ Fun fact: I enjoy turning ideas into projects.
 
 
 ## 🌐 Socials:
