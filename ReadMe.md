@@ -1,6 +1,20 @@
-# About Me:
-### B.Tech Computer Science student<br><br> Interested in Artificial Intelligence, Machine Learning, and Deep Learning<br><br> Building games with Godot and GDScript<br><br> Currently learning Data Science, AI/ML, and Game Development<br><br> Working on personal projects to strengthen my development skills<br><br> Exploring research opportunities in Computer Science<br><br>💬 Ask me about Python, Godot, Git, GitHub, and beginner AI/ML<br><br>⚡ Fun fact: I enjoy turning ideas into projects.
 
+## 🚀 About Me
+
+Hi, I'm Merin!
+
+💻 Computer Science Student  
+🎮 Aspiring Game Developer  
+🤖 AI & Machine Learning Enthusiast  
+📚 Constantly learning and building
+
+Currently working on:
+- Game development with Godot
+- Python projects
+- Data Science and Machine Learning
+- Open-source and GitHub projects
+
+My goal is to combine creativity and technology to build impactful software and intelligent systems.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meringeorgep) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:george.merinp@gmail.com) 
